@@ -1,0 +1,1 @@
+main(){int a=60.00;int b=50.00;float c=a+b;}
